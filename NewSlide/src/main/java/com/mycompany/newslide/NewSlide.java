@@ -17,7 +17,8 @@ public class NewSlide {
         
         System.out.println("Ruslan update to project");
         
-        
+        System.out.println("new update");
+        System.out.println("new update two");
         
         
     }
